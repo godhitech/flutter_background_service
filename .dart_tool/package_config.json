@@ -39,13 +39,13 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/godhitech/Setup/flutter%203_19_1/packages/flutter",
+      "rootUri": "file:///Users/godhitech/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
     {
       "name": "flutter_background_service_android",
-      "rootUri": "file:///Users/godhitech/.pub-cache/hosted/pub.dev/flutter_background_service_android-6.2.2",
+      "rootUri": "file:///Users/godhitech/.pub-cache/git/flutter_background_service_android-3da4ab5f94eff951b8378a8451cbe3b0fae7e50e/",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -63,15 +63,15 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/godhitech/Setup/flutter%203_19_1/packages/flutter_test",
+      "rootUri": "file:///Users/godhitech/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
     {
       "name": "leak_tracker",
-      "rootUri": "file:///Users/godhitech/.pub-cache/hosted/pub.dev/leak_tracker-10.0.0",
+      "rootUri": "file:///Users/godhitech/.pub-cache/hosted/pub.dev/leak_tracker-10.0.5",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "leak_tracker_flutter_testing",
@@ -81,9 +81,9 @@
     },
     {
       "name": "leak_tracker_testing",
-      "rootUri": "file:///Users/godhitech/.pub-cache/hosted/pub.dev/leak_tracker_testing-2.0.1",
+      "rootUri": "file:///Users/godhitech/.pub-cache/hosted/pub.dev/leak_tracker_testing-2.0.3",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "matcher",
@@ -99,7 +99,7 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/godhitech/.pub-cache/hosted/pub.dev/meta-1.11.0",
+      "rootUri": "file:///Users/godhitech/.pub-cache/hosted/pub.dev/meta-1.14.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -123,7 +123,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/godhitech/Setup/flutter%203_19_1/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///Users/godhitech/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -182,7 +182,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2024-04-17T06:34:17.833724Z",
+  "generated": "2024-05-07T02:55:54.120829Z",
   "generator": "pub",
-  "generatorVersion": "3.3.0"
+  "generatorVersion": "3.3.3"
 }
