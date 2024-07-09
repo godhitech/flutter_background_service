@@ -57,10 +57,11 @@ packages:
   flutter_background_service_android:
     dependency: "direct main"
     description:
-      name: flutter_background_service_android
-      sha256: "30863ebafd8214b8e76d5e5c9f27887dc5cc303fcf3e89f71534f621fc486782"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "59b300ca3f1ca2fd10cfc2069e622f2e05c0ea17"
+      url: "https://github.com/godhitech/flutter_background_service_android"
+    source: git
     version: "6.2.2"
   flutter_background_service_ios:
     dependency: "direct main"

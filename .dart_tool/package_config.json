@@ -45,7 +45,7 @@
     },
     {
       "name": "flutter_background_service_android",
-      "rootUri": "file:///Users/godhitech/.pub-cache/hosted/pub.dev/flutter_background_service_android-6.2.2",
+      "rootUri": "file:///Users/godhitech/.pub-cache/git/flutter_background_service_android-59b300ca3f1ca2fd10cfc2069e622f2e05c0ea17/",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -182,7 +182,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2024-04-17T06:34:17.833724Z",
+  "generated": "2024-07-09T01:38:01.620558Z",
   "generator": "pub",
   "generatorVersion": "3.3.0"
 }
